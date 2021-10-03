@@ -1,0 +1,73 @@
+.form-group{
+    margin:10px;
+}
+.btn.btn-info{
+    margin:15px;
+}
+.input-group{
+    width: 50%;
+}
+.class1{
+    display: flex;
+    width: 100%;
+}
+.motorista{
+    display: flex;
+}
+.motorista label{
+    margin:5px;
+}
+.motorista input{
+    margin:5px;
+    margin-top: 10px;
+}
+#espec{
+    width: 420px;
+    height: 250px;
+}
+.container-form{
+    width: 1000px;
+   
+    border-radius: 10px;
+}
+.form-group{
+    width: 50%;
+}
+.header-form{
+    width:1000px;
+    
+}
+section{
+    margin-top: 25px!important;
+    margin-bottom: 25px!important;
+    box-shadow:rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 10px;
+
+}
+.header-form h2{
+    padding-top:40px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p{
+    text-align:justify; 
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    margin-left:20px;
+    margin-right:20px;
+}
+.btn{
+    margin: 20px;
+}
+.strong-text{
+    font-weight: 800;
+
+}
+label{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+h3{
+    text-align: center;
+}
